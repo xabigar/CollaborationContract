@@ -2,8 +2,8 @@
 This is a contract which aims to promote the evolution of [artifactName] providing facilities to reuse it with our collaboration.
 
 <h2>ARTIFACT CONTRIBUTION</h2>
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
+<ul>
+  <li>*Problem*</li>
+  <li>*Context*</li>
+  <li>*Solution*</li>
+</ul>
